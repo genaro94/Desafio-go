@@ -13,17 +13,6 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 
 A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
-# Build 
-```
-docker build -t <seu-user>/golang:latest .
-```
+# Link do Desafio Go
 
-# Pull 
-```
-docker pull genarofigueiredo/golang:latest
-```
-
-# Executar o container
-```
-docker run --rm genarofigueiredo/golang:latest
-```
+[Link da imagem "genarofigueiredo/golang"](https://hub.docker.com/repository/docker/genarofigueiredo/golang)
